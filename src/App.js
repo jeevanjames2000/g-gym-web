@@ -1,9 +1,5 @@
 import Gym from "./Gym";
 const App = () => {
-  return (
-    <>
-      <Gym />
-    </>
-  );
+  return <Gym />;
 };
 export default App;
