@@ -227,23 +227,6 @@ const Gym = () => {
                         {accessmsg[1]?.message || "Access Message"}
                       </Typography>
                     </Grid>
-
-                    {/* <Grid item size={{ xs: 6 }}>
-                      <Typography style={{ textAlign: "justify" }} gutterBottom>
-                        Regd No: {scannedResult.regdNo}
-                      </Typography>
-                      <Typography style={{ textAlign: "justify" }} gutterBottom>
-                        Campus: {scannedResult.campus}
-                      </Typography>
-                    </Grid>
-                    <Grid item size={{ xs: 6 }}>
-                      <Typography style={{ textAlign: "justify" }} gutterBottom>
-                        Location: {scannedResult.Location}
-                      </Typography>
-                      <Typography style={{ textAlign: "justify" }} gutterBottom>
-                        Date: {scannedResult.start_date}
-                      </Typography>
-                    </Grid> */}
                   </Grid>
                 </Card>
               </Grid>
